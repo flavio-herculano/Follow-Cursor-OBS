@@ -10,11 +10,11 @@ Instalação:
 - Dentro do arquivo "follow-cursor.lua" existem as variáveis para "Cena" e "Fonte", atualize conforme seu OBS
 - Dentro do OBS acesse o menu Ferramentas/Scripts
 - Importe o arquivo "follow-cursor.lua" para os scripts
-
+- A partir da importação o script já vai começar a rodar, o obs não possuí nenhuma ferramenta para fazer um script parar de rodar, para parar é necessário remover o script do obs
 
 Observações:
 
-- Evite logs pois o OBS trava com o tempo
+- Evite logs (print) pois o OBS trava com o tempo pois não sabe lidar com logs, use logs apenas para debug, na versão final remova os prints para evitar lentidão ou travamentos.
 
 Motivação:
 

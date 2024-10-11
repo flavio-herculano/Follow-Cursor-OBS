@@ -9,7 +9,7 @@ Esta é uma solução para lives verticais pelo OBS
 
 - No arquivo follow-cursor.lua, localize a linha 80.
 - Atualize os parâmetros da função get_scene_and_source para refletir o nome da Cena e da Fonte que você está usando no OBS.
-**Exemplo: get_scene_and_source("nome_da_cena", "nome_da_fonte")**
+<br/>**Exemplo: get_scene_and_source("nome_da_cena", "nome_da_fonte")**
 
 - Dentro do OBS acesse o menu Ferramentas/Scripts
 - Importe o arquivo "follow-cursor.lua" para os scripts

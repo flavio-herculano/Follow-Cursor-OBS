@@ -1,9 +1,6 @@
 # Follow-Cursor-OBS
 
-Esta é uma solução para lives verticais pelo OBS 
-
-- O script reconhece a posição do mouse
-- A gameplay (fonte: Tela) move para esquerda e direita de acordo com a posição atual do mouse
+Esta é uma solução para lives verticais pelo OBS, o script vai arrastar a fonte gameplay para esquerda e direita de acordo com a posição atual do mouse, possibilitando quem está assistindo poder acompanhar todos os detalhes.
 
 ### Instalação:
 
@@ -41,3 +38,12 @@ sendo assim precisava-se de uma solução para não perder detalhes da gameplay.
 
 - O projeto funciona super bem para jogos que não prendem o mouse como os jogos de Tiro, jogos de tabuleiro o projeto acompanha super bem o mouse.
 - A possível solução é apenas para o problema dos jogos de FPS, jogos de plataforma, tabuleiros, funcionam perfeitamente.
+
+### Outra versão futura
+
+- Com o Mouse ao centro a tela deve ficar ampliada
+- Com o Mouse nas bordas a cena deve diminuir para encaixar
+
+<br/>
+
+*Essa futura versão pode acabar com os problemas de perder detalhes em jogos de FPS*

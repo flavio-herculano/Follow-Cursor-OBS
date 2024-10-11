@@ -7,9 +7,10 @@ Esta é uma solução para lives verticais pelo OBS
 
 Instalação:
 
+- Dentro do arquivo "follow-cursor.lua" existem as variáveis para "Cena" e "Fonte", atualize conforme seu OBS
 - Dentro do OBS acesse o menu Ferramentas/Scripts
 - Importe o arquivo "follow-cursor.lua" para os scripts
-- Dentro do arquivo "follow-cursor.lua" existem as variáveis de "Cena" e "Fonte", atualize conforme necessário
+
 
 Observações:
 

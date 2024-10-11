@@ -7,7 +7,8 @@ Esta é uma solução para lives verticais pelo OBS
 
 Instalação:
 
-- Dentro do arquivo "follow-cursor.lua" na linha 80, atualize as "variáveis" de "Cena" e "Fonte" > get_scene_and_source("gameplay", "tela") atualize conforme seu OBS
+- Na linha 80 do arquivo "follow-cursor.lua", atualize a Cena e Fonte atualize conforme seu OBS.
+## referência: get_scene_and_source("gameplay", "tela")
 - Dentro do OBS acesse o menu Ferramentas/Scripts
 - Importe o arquivo "follow-cursor.lua" para os scripts
 - A partir da importação o script já vai começar a rodar, o obs não possuí nenhuma ferramenta para fazer um script parar de rodar, para parar é necessário remover o script do obs

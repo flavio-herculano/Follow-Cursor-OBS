@@ -9,7 +9,7 @@ Instalação:
 
 - Dentro do OBS acesse o menu Ferramentas/Scripts
 - Importe o arquivo "follow-cursor.lua" para os scripts
-- Dentro do script.lua existem as variáveis de Cena e Fonte, atualize conforme necessário
+- Dentro do arquivo "follow-cursor.lua" existem as variáveis de "Cena" e "Fonte", atualize conforme necessário
 
 Observações:
 

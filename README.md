@@ -3,7 +3,7 @@
 Esta é uma solução para lives verticais pelo OBS 
 
 - O script reconhece a posição do mouse
-- A gameplay (fonte "Tela") move para esquerda e direita de acordo com a posição atual do mouse
+- A gameplay (fonte: Tela) move para esquerda e direita de acordo com a posição atual do mouse
 
 Instalação:
 
